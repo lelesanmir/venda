@@ -19,7 +19,10 @@ public class ExecutarTeste {
 /**
  * @param args
  */
-public static void main(String[] args) {
+	/*Método main de execução
+	 * 
+	 */
+	public static void main(String[] args) {
 	
 	Produto produto1 = new Produto();
 	

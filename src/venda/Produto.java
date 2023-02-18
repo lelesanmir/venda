@@ -2,6 +2,9 @@ package venda;
 
 import java.math.BigDecimal;
 
+/*
+ * Classe produto
+ */
 public class Produto {
 
 	private Long id;
